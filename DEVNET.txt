@@ -1,1 +1,1 @@
-echo "I'm a git genius now!"
+echo "I'm a git Wizard now!"
